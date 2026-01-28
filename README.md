@@ -1,21 +1,116 @@
-# 💫 About Me:
-Hello, my name is Kolli.<br>I am a Computer Science student with a strong interest in backend development and full stack systems.<br><br>Recently, I worked on a project where I built the backend of an Expense Tracking Application.<br>In this project, my main role was to design and develop REST APIs that allow users to add, view, update, and delete their expenses. I also worked on connecting the application to a database and handling business logic securely and efficiently.<br><br>I used Java with Spring Boot for backend development and MySQL for data storage. I implemented features like user-based expense tracking, category-wise summaries, and basic validations. This project helped me understand how real-world APIs work and how backend systems are structured.<br><br>Apart from this, I have experience creating dashboards using Power BI and Excel for data analysis, and I have basic knowledge of HTML and CSS for frontend integration. I also use Git for version control and have worked in a Linux environment.<br><br>Through these projects, I learned how to write clean code, debug issues, and collaborate effectively.<br>I am eager to learn, improve my full stack skills, and work on scalable systems that solve real problems.<br><br>Thank you for watching.
+# 👋 Hi, I'm Kolli Sai Charan Reddy
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kollisaicharanreddy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saicharanreddykolli@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kollisaicharanreddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kollisaicharanreddy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kollisaicharanreddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💫 About Me
+Computer Science and Business Systems undergraduate with a strong focus on **Java backend development** and **full-stack systems**. Experienced in building **RESTful APIs**, designing **database-driven applications**, and creating **data analytics dashboards**. Actively seeking opportunities to work on **scalable, real-world systems** and grow as a backend / full-stack engineer.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kollisaicharanreddy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projects
+
+### 💰 Expense Tracking Application (Backend)
+**Role:** Backend Developer  
+**Tech Stack:** Java, Spring Boot, MySQL
+
+- Designed and developed **RESTful APIs** for adding, viewing, updating, and deleting expenses.
+- Implemented **user-based expense tracking** with **category-wise summaries**.
+- Integrated **MySQL** using **Spring Data JPA** for efficient data persistence.
+- Added **basic validations**, structured service layers, and clean API architecture.
+- Gained hands-on experience with real-world backend workflows and API design.
+
+---
+
+### 📊 Balance Sheet Analytics & Share Price Evaluation Dashboard
+**Tools:** Power BI, Excel
+
+- Built an end-to-end **Power BI dashboard** analyzing Union Bank of India’s financial performance (FY 22–23 vs previous year).
+- Created KPIs focusing on **growth rates, liquidity, profitability, and investment insights**.
+- Transformed raw balance sheet data into actionable business insights.
+
+---
+
+### 📦 Sales & Supply Chain Performance Dashboard
+**Tools:** Power BI, Power Query, DAX
+
+- Cleaned and transformed raw supply chain data using **Power Query**.
+- Developed **12+ DAX measures** to compute complex KPIs.
+- Designed interactive dashboards to visualize **sales trends, operational efficiency, and profitability**.
+
+---
+
+## 💼 Experience
+
+### UI/UX Designer (Freelance)
+**Appe Nexus Pvt. Ltd.** | *Jan 2025 – Present*
+- Designed responsive UI mockups and scalable design systems using **Figma**.
+- Conducted usability testing and user research to improve workflows and engagement.
+
+### Graphic Design Intern
+**adZatic Marketing Agency (Remote)** | *Jul 2023 – Feb 2024*
+- Delivered **30+ marketing creatives** under tight deadlines.
+- Collaborated with cross-functional teams to convert business requirements into visual designs.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- Java  
+- Python  
+- C, C++
+
+### Backend & Databases
+- Spring Boot  
+- MySQL  
+
+### Web Technologies
+- HTML  
+- CSS  
+- JavaScript  
+
+### Data & Analytics
+- Power BI  
+- Excel  
+
+### Design Tools
+- Figma  
+- Canva  
+
+### Tools & Environment
+- Git  
+- GitHub  
+- Linux  
+
+---
+
+## 🎓 Education
+**B.Tech – Computer Science and Business Systems**  
+Vellore Institute of Technology, Amaravati  
+CGPA: **8.96** | Expected Graduation: **2026**
+
+---
+
+## 📜 Certifications
+- Microsoft Azure Data Fundamentals (DP-900)
+
+---
+
+## 🌐 Connect With Me
+- 🔗 LinkedIn: [linkedin.com/in/kollisaicharanreddy](https://www.linkedin.com/in/kollisaicharanreddy/)
+- 💻 GitHub: [github.com/kollisaicharanreddy](https://github.com/kollisaicharanreddy)
+- 📧 Email: saicharanreddykolli@gmail.com
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kollisaicharanreddy&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kollisaicharanreddy&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kollisaicharanreddy&theme=dark&layout=compact)
+
+---
+
+## ✍️ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=kollisaicharanreddy&icon=0&color=0)
