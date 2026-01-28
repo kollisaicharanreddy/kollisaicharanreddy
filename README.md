@@ -112,4 +112,3 @@ CGPA: **8.96** | Expected Graduation: **2026**
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=kollisaicharanreddy&icon=0&color=0)
