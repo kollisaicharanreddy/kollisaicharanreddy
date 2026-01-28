@@ -103,7 +103,6 @@ CGPA: **8.96** | Expected Graduation: **2026**
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kollisaicharanreddy&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kollisaicharanreddy&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kollisaicharanreddy&theme=dark&layout=compact)
 
 ---
