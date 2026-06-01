@@ -67,13 +67,6 @@ Computer Science and Business Systems undergraduate at <b>VIT Amaravati</b> with
 </p>
 
 ---
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kollisaicharanreddy&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
