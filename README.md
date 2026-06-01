@@ -67,7 +67,6 @@ Computer Science and Business Systems undergraduate at <b>VIT Amaravati</b> with
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
